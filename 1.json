@@ -1,0 +1,9 @@
+{
+  "name": "Lesson NFT #1",
+  "symbol": "LESSON",
+  "description": "NFT reward on Solana",
+  "image": "https://arweave.net/IMAGE_URL",
+  "attributes": [
+    { "trait_type": "Lesson", "value": "1" }
+  ]
+}
